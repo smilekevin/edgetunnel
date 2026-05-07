@@ -5,4 +5,4 @@ keep_vars = true
 
 [[kv_namespaces]]
 binding = "KV"			#KV绑定名默认不可修改
-id = "cfproxy"				#KV数据库id
+id = "71e1564673fc4551aaafe0639ec081db"				#KV数据库id
