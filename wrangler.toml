@@ -4,5 +4,9 @@ compatibility_date = "2025-11-04"
 keep_vars = true
 
 [[kv_namespaces]]
-binding = "KV"			#KV绑定名默认不可修改
-id = "71e1564673fc4551aaafe0639ec081db"				#KV数据库id
+binding = "KV"
+id = "71e1564673fc4551aaafe0639ec081db"
+
+[observability.logs]
+enabled = true
+invocation_logs = true
